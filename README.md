@@ -7,31 +7,14 @@ O arquivo PDF com o mapa completo está disponível na pasta deste projeto.
 
 ## 🧠 Sobre o conteúdo
 
-O mapa foi elaborado com base nas trilhas da DIO e inclui:
-
-- Fundamentos de programação
-- Linguagens como JavaScript, Python e Java
-- Desenvolvimento Web e Mobile
-- Banco de dados e Cloud
-- Soft skills e carreira
+O mapa foi elaborado conforme instruções do PDF, contando com o apoio do Copilot, conforme orientações dos vídeos.
 
 ---
 
 ## 🖼️ Visual de apoio
 
 A imagem abaixo representa um exemplo de divulgação de aulas de Python, que podem ser parte do plano de estudos sugerido no mapa:
-
-![Aprenda Python do Zero](./imagem-promocional-python.png)
-
----
-
-## 📂 Arquivos disponíveis
-
-- `mapa-conhecimento-dio.pdf` → Mapa completo em PDF
-- `imagem-promocional-python.png` → Imagem para divulgação de aulas
+<img width="1024" height="1536" alt="Copilot_20260114_234541" src="https://github.com/user-attachments/assets/be27dbbb-8ef5-46e0-ac55-817881cb2eee" />
 
 ---
 
-## ✉️ Contato
-
-Para dúvidas, sugestões ou parcerias, entre em contato comigo pelo Instagram [@seuusuario](https://instagram.com/seuusuario) ou envie um e-mail para **seuemail@dominio.com**.
